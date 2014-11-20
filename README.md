@@ -1,1 +1,1 @@
-![profile](images/daumlogo.png)
+![Daum Logo](images/daumlogo.png)
